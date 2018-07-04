@@ -1,0 +1,4 @@
+1.熟悉JAVA
+2.安装完成IDEA和MongoDB
+3.搭配完成ShadowSocks，可翻墙
+4.正在学习Git
